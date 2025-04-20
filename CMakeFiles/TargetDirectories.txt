@@ -1,0 +1,4 @@
+J:/GitHub/voice/WhisperGUIQt6/CMakeFiles/WhisperGUIQt6.dir
+J:/GitHub/voice/WhisperGUIQt6/CMakeFiles/INSTALL.dir
+J:/GitHub/voice/WhisperGUIQt6/CMakeFiles/ALL_BUILD.dir
+J:/GitHub/voice/WhisperGUIQt6/CMakeFiles/ZERO_CHECK.dir
